@@ -13,5 +13,9 @@ Completed:
 * [.] Required: The destination server is configurable via the `x-destination-url` header
 * [.] Required: Client requests and respones are printed to stdout
 * [.] Required: The `--logfile` argument outputs all logs to the file specified instead of stdout
-Attached gif walkthrough
-<blockquote class="imgur-embed-pub" lang="en" data-id="OeYUdun"><a href="//imgur.com/OeYUdun">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://imgur.com/OeYUdun.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
