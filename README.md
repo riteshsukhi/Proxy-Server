@@ -14,4 +14,4 @@ Completed:
 * [.] Required: Client requests and respones are printed to stdout
 * [.] Required: The `--logfile` argument outputs all logs to the file specified instead of stdout
 Attached gif walkthrough
-s
+<blockquote class="imgur-embed-pub" lang="en" data-id="OeYUdun"><a href="//imgur.com/OeYUdun">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
